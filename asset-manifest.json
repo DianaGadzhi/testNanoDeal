@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/testNanoDeal/static/css/main.7acd3c11.chunk.css",
-    "main.js": "/testNanoDeal/static/js/main.7b9f62b4.chunk.js",
-    "main.js.map": "/testNanoDeal/static/js/main.7b9f62b4.chunk.js.map",
-    "runtime-main.js": "/testNanoDeal/static/js/runtime-main.06084b05.js",
-    "runtime-main.js.map": "/testNanoDeal/static/js/runtime-main.06084b05.js.map",
+    "main.js": "/testNanoDeal/static/js/main.d3f57974.chunk.js",
+    "main.js.map": "/testNanoDeal/static/js/main.d3f57974.chunk.js.map",
+    "runtime-main.js": "/testNanoDeal/static/js/runtime-main.2b95c4b2.js",
+    "runtime-main.js.map": "/testNanoDeal/static/js/runtime-main.2b95c4b2.js.map",
     "static/css/2.4be38407.chunk.css": "/testNanoDeal/static/css/2.4be38407.chunk.css",
-    "static/js/2.10b57c95.chunk.js": "/testNanoDeal/static/js/2.10b57c95.chunk.js",
-    "static/js/2.10b57c95.chunk.js.map": "/testNanoDeal/static/js/2.10b57c95.chunk.js.map",
-    "static/js/3.3876bb10.chunk.js": "/testNanoDeal/static/js/3.3876bb10.chunk.js",
-    "static/js/3.3876bb10.chunk.js.map": "/testNanoDeal/static/js/3.3876bb10.chunk.js.map",
+    "static/js/2.692e8068.chunk.js": "/testNanoDeal/static/js/2.692e8068.chunk.js",
+    "static/js/2.692e8068.chunk.js.map": "/testNanoDeal/static/js/2.692e8068.chunk.js.map",
+    "static/js/3.f88a0f74.chunk.js": "/testNanoDeal/static/js/3.f88a0f74.chunk.js",
+    "static/js/3.f88a0f74.chunk.js.map": "/testNanoDeal/static/js/3.f88a0f74.chunk.js.map",
     "index.html": "/testNanoDeal/index.html",
     "static/css/2.4be38407.chunk.css.map": "/testNanoDeal/static/css/2.4be38407.chunk.css.map",
     "static/css/main.7acd3c11.chunk.css.map": "/testNanoDeal/static/css/main.7acd3c11.chunk.css.map",
-    "static/js/2.10b57c95.chunk.js.LICENSE.txt": "/testNanoDeal/static/js/2.10b57c95.chunk.js.LICENSE.txt",
+    "static/js/2.692e8068.chunk.js.LICENSE.txt": "/testNanoDeal/static/js/2.692e8068.chunk.js.LICENSE.txt",
     "static/media/LogoHoriz.d00e9955.svg": "/testNanoDeal/static/media/LogoHoriz.d00e9955.svg",
     "static/media/Union.a227b140.svg": "/testNanoDeal/static/media/Union.a227b140.svg",
     "static/media/Vector.83b1d28b.svg": "/testNanoDeal/static/media/Vector.83b1d28b.svg",
@@ -38,10 +38,10 @@
     "static/media/shadowImg1.7cb79d25.png": "/testNanoDeal/static/media/shadowImg1.7cb79d25.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.06084b05.js",
+    "static/js/runtime-main.2b95c4b2.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.10b57c95.chunk.js",
+    "static/js/2.692e8068.chunk.js",
     "static/css/main.7acd3c11.chunk.css",
-    "static/js/main.7b9f62b4.chunk.js"
+    "static/js/main.d3f57974.chunk.js"
   ]
 }
