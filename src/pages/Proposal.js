@@ -141,9 +141,9 @@ function Proposal() {
             className="p-0 inputCol"
           >
             <form className="form">
-              <div class="input-icons">
+              <div className="input-icons">
                 <SearchIcon id="i" className="icon" />
-                <input class="input-field" type="search" placeholder="Поиск" />
+                <input className="input-field" type="search" placeholder="Поиск" />
               </div>
             </form>
           </Col>

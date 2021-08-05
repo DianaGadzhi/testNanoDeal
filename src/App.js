@@ -6,7 +6,7 @@ import Dashboard from "./pages/Dashboard";
 import Proposal from "./pages/Proposal";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Navbar } from "react-bootstrap";
 
 function App() {
   return (
@@ -18,10 +18,11 @@ function App() {
               <Sidebar />
             </Col>
             <Col xxl={10} xl={9} lg={9} className="p-0">
-              <Switch>
+              <Proposal />
+              {/* <Switch>
                 <Route path="/dashboard" component={Dashboard} />
-                <Route path="/proposal" component={Proposal} />
-              </Switch>
+                <Route activeClassName="selected" path="/proposal" component={Proposal} />
+              </Switch> */}
             </Col>
           </Row>
         </Container>

@@ -38,8 +38,7 @@ function Sidebar() {
       
       `}</style>
 
-      
-      <Navbar  variant="light">
+      <Navbar variant="light">
         <Container className="">
           <Nav>
             <UnionIcon className="nav_icon" onClick={showSidebar} />
@@ -62,6 +61,26 @@ function Sidebar() {
         </Row>
       </div>
       <div className="Sidebar">
+        
+      {/* <Tab.Container id="left-tabs-example">
+     
+            <div className="SidebarList">
+              <Nav variant="pills">
+                {SidebarData.map((val, key) => {
+                  return (
+                    <Nav.Item>
+                      <Nav.Link eventKey={key}>
+                        {val.icon}
+                        <span className="span">{val.title}</span>
+                      </Nav.Link>
+                    </Nav.Item>
+                  );
+                })}
+              </Nav>
+            </div>
+            </div>
+      </Tab.Container> */}
+
         <ul className="SidebarList">
           {SidebarData.map((val, key) => {
             return (
